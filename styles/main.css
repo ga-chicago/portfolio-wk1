@@ -46,8 +46,9 @@ a {
     color: #36454f;
 }
 
-section {
-    background-color: #A4875F};
+.projects {
+    float:left;
+    background-color: #A4875F;
 }
 
 
@@ -57,16 +58,26 @@ footer {
     background-color: #65beb4;
     clear: both;
 
-#aboutLeft {
+#about {
+    background-color: lime;
+    height: 350px;
     width: 50%;
     float: left;
 }
 
-#aboutRight {
+#image {
+    background-color: blue;
+    height: 350px;
     width: 50%;
-    float: right;
+    float: left;
 }
 
 .email {
     text-align: left;
+}
+
+/* aligning of divs */
+
+#aligned-divs {
+
 }
