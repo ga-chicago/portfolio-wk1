@@ -26,6 +26,8 @@ h2 {
 	margin-bottom: 30px;
 }
 
+
+
 div {
 	width:30%;
 	height:200px;
@@ -36,7 +38,8 @@ div {
 
 #About {
 	width:100%;
-	background-color:white;
+	margin:0px;
+	background-color: rgba(0,0,0,.75);
 	height:200px;
 
 }
