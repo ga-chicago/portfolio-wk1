@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+color:  #C390D4;
+font-size: 1em;
+/*background-color: #FFCF33;*/
+background-color: #fff;
+/*font-family: "Open Sans", "Helvetica Neue", sans-serif;*/
+font-family: 'Old Standard TT', serif;
+}
+
+::selection {
+  background: #FFE799;
+}
+
+.masthead {
+  background-image: url('/Users/Admin/sites/week1/wed/portfolio-wk1/img/me.long_john.jpg');
+  height: 20%;
+  padding: 3em 0;
+  padding: 6em 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-top: solid 1em #FFCF33;
+}
