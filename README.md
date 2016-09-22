@@ -1,3 +1,14 @@
+
+- The entire portfolio is one page that you can scroll through.
+	- The "landing page" is the intro (from wireframes) and will fill the screen when someone links to the page.
+	- The nave buton will jump to one of the sections (these can also be accessed via scrolling.)
+	- I want to keep it all to one page to emulate the one to two page paper resume.
+	- Color Palette
+		-Browns
+		-maybe some greens
+	- about/sampled work contact buttons will change color when you hover over them.
+
+
 # WDI Portfolio - Week 1
 
 *Portfolio Requirements for Week 1*
