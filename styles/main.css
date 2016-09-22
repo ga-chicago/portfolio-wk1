@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(240, 241, 243);
+    height:200px;
+    width:100%;
+}
+#nameheader{
+    font-family: 'Anton', sans-serif;
+    font-size: 90px;
+    height: 60px;
+    background-color: lightsteelblue;
+    padding:20px 10px 45px 2px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+#namesubheader{
+    height:20px;
+    background-color: slategrey;
+    padding: 22px 200px 0px 2px;
+    margin-top: 0;
+    font-size: 14px;
+    font-family: 'Anton', sans-serif;
+}
+#navbar{
+    font-size: 14px;
+    font-family: 'Anton', sans-serif;
+    border-top:black px;
+    margin:2px;
+    width:100%;
+    float: left;
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
+.portfolio{
+    alignment: center;
+    opacity: .5;
+
+}
+#portfoliosec1{
+    background-color: darkslategray;
+    height: 300px;
+    width: 300px;
+    border-radius: 500%;
+    text-decoration: none;
+    text-align: center;
+    clear:both;
+}
+#portfoliosec2{
+    background-color: darkslategray;
+    height: 300px;
+    width: 300px;
+    border-radius: 500%;
+    text-decoration: none;
+    clear:both;
+    text-align: center;
+}
+article{
+    height:300px;
+    width:150px;
+    float: right;
+    font-family: 'Anton', sans-serif;
+    clear:both;
+    font-color: black;
+    background-color: aqua;
+
+}
+footer{
+    height: 30px;
+    width:100%;
+    clear:both;
+    background-color: slategrey;
+    font-family: 'Anton', sans-serif;
+    text-decoration: none;
+    font-color:black;
+    padding: 5px 80px 0px 2px;
+}
